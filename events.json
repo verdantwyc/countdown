@@ -15,7 +15,7 @@
     "isTimeUncertain": false,
     "location": "QQ音乐"
   },
-   {
+  {
     "name": "《隐》主题音乐会重庆站",
     "type": "LIVE",
     "date": "2026-04-18",
@@ -23,13 +23,21 @@
     "isTimeUncertain": false,
     "location": "重庆蜚声"
   },
-    {
+  {
     "name": "《隐》主题见面会重庆站",
     "type": "FAN_MEETING",
     "date": "2026-04-19",
     "time": "00:00",
     "isTimeUncertain": true,
     "location": "待定"
+  },
+   {
+    "name": "小工具测试用事件",
+    "type": "OTHER",
+    "date": "2026-04-05",
+    "time": "13:45",
+    "isTimeUncertain": false,
+    "location": "StarCal"
   },
   {
     "name": "〈渺渺化虚无〉、〈清欢不知愁〉QQ音乐上线",
