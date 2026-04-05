@@ -1,38 +1,42 @@
 [
   {
-    "id": "global-1",
     "name": "〈隐〉、〈夜莺与玫瑰〉QQ音乐上线",
-    "type": "新歌上线",
+    "type": "NEW_SONG",
     "date": "2026-04-07",
     "time": "00:00",
-    "imageUrl": ""
+    "isTimeUncertain": false,
+    "location": "QQ音乐"
   },
   {
-    "id": "global-2",
     "name": "〈Set Me Free〉、〈Tita Tita〉QQ音乐上线",
-    "type": "新歌上线",
+    "type": "NEW_SONG",
     "date": "2026-04-14",
-    "time": "00:00"
+    "time": "00:00",
+    "isTimeUncertain": false,
+    "location": "QQ音乐"
   },
    {
-    "id": "global-3",
     "name": "《隐》主题音乐会重庆站",
-    "type": "Live",
+    "type": "LIVE",
     "date": "2026-04-18",
-    "time": "19:30"
+    "time": "19:30",
+    "isTimeUncertain": false,
+    "location": "重庆蜚声"
   },
     {
-    "id": "global-4",
     "name": "《隐》主题见面会重庆站",
-    "type": "见面会",
+    "type": "FAN_MEETING",
     "date": "2026-04-19",
+    "time": "00:00",
+    "isTimeUncertain": true,
+    "location": "待定"
   },
   {
-    "id": "global-5",
     "name": "〈渺渺化虚无〉、〈清欢不知愁〉QQ音乐上线",
-    "type": "新歌上线",
+    "type": "NEW_SONG",
     "date": "2026-04-21",
-    "time": "00:00"
+    "time": "00:00",
+    "isTimeUncertain": false
   }
 ]
 
