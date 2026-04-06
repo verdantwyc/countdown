@@ -48,6 +48,14 @@
     "location": "待定"
   },
   {
+    "name": "王允宸生日见面会暨After Party",
+    "type": "PERFORMANCE",
+    "date": "2026-05-31",
+    "time": "00:00",
+    "isTimeUncertain": true,
+    "location": "待定"
+  },
+  {
     "name": "王允宸生日主題Live",
     "type": "LIVE",
     "date": "2026-06-27",
