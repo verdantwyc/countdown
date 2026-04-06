@@ -31,13 +31,37 @@
     "isTimeUncertain": true,
     "location": "待定"
   },
-   {
+  {
     "name": "小工具测试用事件",
     "type": "OTHER",
     "date": "2026-04-05",
     "time": "14:35",
     "isTimeUncertain": false,
     "location": "StarCal"
+  },
+  {
+    "name": "王允宸生日上海签售会",
+    "type": "FAN_MEETING",
+    "date": "2026-05-30",
+    "time": "00:00",
+    "isTimeUncertain": true,
+    "location": "待定"
+  },
+  {
+    "name": "王允宸生日主題Live",
+    "type": "LIVE",
+    "date": "2026-06-27",
+    "time": "00:00",
+    "isTimeUncertain": true,
+    "location": "瓦肆VAS est"
+  },
+  {
+    "name": "王允宸生日主题签售会",
+    "type": "FAN_MEETING",
+    "date": "2026-06-28",
+    "time": "00:00",
+    "isTimeUncertain": true,
+    "location": "待定"
   },
   {
     "name": "〈渺渺化虚无〉、〈清欢不知愁〉QQ音乐上线",
