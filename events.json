@@ -1,13 +1,6 @@
 [
   
-  {
-    "name": "〈Set Me Free〉、〈Tita Tita〉QQ音乐上线",
-    "type": "NEW_SONG",
-    "date": "2026-04-14",
-    "time": "00:00",
-    "isTimeUncertain": false,
-    "location": "QQ音乐"
-  },
+  
   {
     "name": "《隐》主题音乐会重庆站",
     "type": "LIVE",
@@ -20,18 +13,11 @@
     "name": "《隐》主题见面会重庆站",
     "type": "FAN_MEETING",
     "date": "2026-04-19",
-    "time": "00:00",
-    "isTimeUncertain": true,
-    "location": "待定"
-  },
-  {
-    "name": "小工具测试用事件",
-    "type": "OTHER",
-    "date": "2026-04-05",
-    "time": "14:35",
+    "time": "14:00",
     "isTimeUncertain": false,
-    "location": "StarCal"
+    "location": "协信・星光时代广场(南坪店)B1中庭"
   },
+  
   {
     "name": "王允宸生日上海签售会",
     "type": "FAN_MEETING",
