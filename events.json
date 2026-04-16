@@ -1,12 +1,5 @@
 [
-  {
-    "name": "〈隐〉、〈夜莺与玫瑰〉QQ音乐上线",
-    "type": "NEW_SONG",
-    "date": "2026-04-07",
-    "time": "00:00",
-    "isTimeUncertain": false,
-    "location": "QQ音乐"
-  },
+  
   {
     "name": "〈Set Me Free〉、〈Tita Tita〉QQ音乐上线",
     "type": "NEW_SONG",
@@ -45,7 +38,23 @@
     "date": "2026-05-30",
     "time": "00:00",
     "isTimeUncertain": true,
-    "location": "待定"
+    "location": "商场待公告"
+  },
+  {
+    "name": "前往重庆",
+    "type": "OTHER",
+    "date": "2026-04-16",
+    "time": "00:00",
+    "isTimeUncertain": true,
+    "location": "请参考线下群"
+  },
+  {
+    "name": "重庆场馆排练",
+    "type": "OTHER",
+    "date": "2026-04-17",
+    "time": "00:00",
+    "isTimeUncertain": true,
+    "location": "重庆蜚声"
   },
   {
     "name": "王允宸生日见面会暨After Party",
@@ -53,7 +62,7 @@
     "date": "2026-05-31",
     "time": "00:00",
     "isTimeUncertain": true,
-    "location": "待定"
+    "location": "瓦肆VAS ear"
   },
   {
     "name": "王允宸生日主題Live",
