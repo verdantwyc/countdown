@@ -2,20 +2,20 @@
   
   
   {
-    "name": "《隐》主题音乐会重庆站",
-    "type": "LIVE",
-    "date": "2026-04-18",
-    "time": "19:30",
-    "isTimeUncertain": false,
-    "location": "重庆蜚声"
+    "name": "出发前往北京",
+    "type": "OTHER",
+    "date": "2026-04-25",
+    "time": "00:30",
+    "isTimeUncertain": true,
+    "location": "请参考线下群"
   },
   {
-    "name": "《隐》主题见面会重庆站",
-    "type": "FAN_MEETING",
-    "date": "2026-04-19",
-    "time": "14:00",
-    "isTimeUncertain": false,
-    "location": "协信・星光时代广场(南坪店)B1中庭"
+    "name": "北京电台直播",
+    "type": "OTHER",
+    "date": "2026-04-26",
+    "time": "00:00",
+    "isTimeUncertain": true,
+    "location": "详情请以官方为准"
   },
   
   {
