@@ -1,18 +1,17 @@
 [
   
-  
-  {
-    "name": "出发前往北京",
-    "type": "OTHER",
-    "date": "2026-04-25",
-    "time": "00:30",
-    "isTimeUncertain": true,
-    "location": "请参考线下群"
-  },
   {
     "name": "北京电台直播",
     "type": "OTHER",
     "date": "2026-04-26",
+    "time": "00:00",
+    "isTimeUncertain": true,
+    "location": "详情请以官方为准"
+  },
+  {
+    "name": "搜狐扫楼",
+    "type": "OTHER",
+    "date": "2026-04-27",
     "time": "00:00",
     "isTimeUncertain": true,
     "location": "详情请以官方为准"
@@ -65,13 +64,6 @@
     "time": "00:00",
     "isTimeUncertain": true,
     "location": "国家网球中心园区"
-  },
-  {
-    "name": "〈渺渺化虚无〉、〈清欢不知愁〉QQ音乐上线",
-    "type": "NEW_SONG",
-    "date": "2026-04-21",
-    "time": "00:00",
-    "isTimeUncertain": false
   }
 ]
 
