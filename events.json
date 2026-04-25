@@ -1,12 +1,12 @@
 [
   
   {
-    "name": "北京电台直播",
+    "name": "974 Live Show電台直播",
     "type": "OTHER",
     "date": "2026-04-26",
-    "time": "00:00",
-    "isTimeUncertain": true,
-    "location": "详情请以官方为准"
+    "time": "20:00",
+    "isTimeUncertain": false,
+    "location": "WB-主持人：DJ泽华；电台：北京音乐广播"
   },
   {
     "name": "搜狐扫楼",
