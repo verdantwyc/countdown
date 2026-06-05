@@ -1,23 +1,31 @@
 [
   
   {
-    "name": "王允宸生日上海签售会",
-    "type": "FAN_MEETING",
-    "date": "2026-05-30",
-    "time": "14:00",
-    "isTimeUncertain": false,
-    "location": "上海国华广场A区L1中庭"
+    "name": "录音行程",
+    "type": "OTHER",
+    "date": "2026-06-06",
+    "time": "00:00",
+    "isTimeUncertain": true,
+    "location": ""
   },
   {
-    "name": "王允宸生日见面会暨After Party",
-    "type": "PERFORMANCE",
-    "date": "2026-05-31",
-    "time": "16:00",
-    "isTimeUncertain": false,
-    "location": "瓦肆VAS ear"
+    "name": "泉州综艺录制",
+    "type": "OTHER",
+    "date": "2026-06-10",
+    "time": "12:00",
+    "isTimeUncertain": true,
+    "location": ""
   },
   {
-    "name": "王允宸生日主題Live",
+    "name": "王允宸心想事宸Live彩排",
+    "type": "OTHER",
+    "date": "2026-06-26",
+    "time": "12:00",
+    "isTimeUncertain": true,
+    "location": "瓦肆VAS est"
+  },
+  {
+    "name": "王允宸心想事宸Live",
     "type": "LIVE",
     "date": "2026-06-27",
     "time": "12:00",
@@ -25,36 +33,20 @@
     "location": "瓦肆VAS est"
   },
   {
-    "name": "王允宸生日主题签售会",
+    "name": "王允宸心想事宸签售会",
     "type": "FAN_MEETING",
     "date": "2026-06-28",
     "time": "12:00",
     "isTimeUncertain": true,
     "location": "待定"
   },
-  {
-    "name": "予宸・生咖上海站",
-    "type": "FANS",
-    "date": "2026-05-31",
-    "time": "10:00",
-    "isTimeUncertain": false,
-    "location": "虎纠咖酒淮海中路店・消费禁止不开心套餐"
-  },
-  {
-    "name": "流星没有目的地正式上线",
-    "type": "NEW_SONG",
-    "date": "2026-05-31",
-    "time": "00:00",
-    "isTimeUncertain": false,
+   {
+    "name": "佛山综艺录制",
+    "type": "OTHER",
+    "date": "2026-06-20",
+    "time": "12:00",
+    "isTimeUncertain": true,
     "location": ""
-  },
-  {
-    "name": "予宸・生咖广州站",
-    "type": "FANS",
-    "date": "2026-05-31",
-    "time": "12:30",
-    "isTimeUncertain": false,
-    "location": "浅叙Whisper・消费喝了就开心套餐，17:31前统一录制生日祝福"
   }
 ]
 
