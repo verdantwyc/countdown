@@ -17,6 +17,46 @@
     "location": ""
   },
   {
+    "name": "返回上海",
+    "type": "OTHER",
+    "date": "2026-07-13",
+    "time": "12:00",
+    "isTimeUncertain": true,
+    "location": ""
+  },
+  {
+    "name": "音乐剧定妆照",
+    "type": "OTHER",
+    "date": "2026-07-06",
+    "time": "12:00",
+    "isTimeUncertain": true,
+    "location": ""
+  },
+  {
+    "name": "录音",
+    "type": "OTHER",
+    "date": "2026-07-07",
+    "time": "12:00",
+    "isTimeUncertain": true,
+    "location": ""
+  },
+  {
+    "name": "物料拍摄",
+    "type": "OTHER",
+    "date": "2026-07-08",
+    "time": "12:00",
+    "isTimeUncertain": true,
+    "location": ""
+  },
+  {
+    "name": "物料拍摄",
+    "type": "OTHER",
+    "date": "2026-07-12",
+    "time": "12:00",
+    "isTimeUncertain": true,
+    "location": ""
+  },
+  {
     "name": "综艺录制暨开放Live",
     "type": "PERFORMANCE",
     "date": "2026-07-11",
