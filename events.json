@@ -1,52 +1,28 @@
 [
   
   {
-    "name": "录音行程",
+    "name": "杂志拍摄",
     "type": "OTHER",
-    "date": "2026-06-06",
-    "time": "00:00",
-    "isTimeUncertain": true,
-    "location": ""
-  },
-  {
-    "name": "泉州综艺录制",
-    "type": "OTHER",
-    "date": "2026-06-10",
+    "date": "2026-07-05",
     "time": "12:00",
     "isTimeUncertain": true,
     "location": ""
   },
   {
-    "name": "王允宸心想事宸Live彩排",
+    "name": "前往普宁",
     "type": "OTHER",
-    "date": "2026-06-26",
-    "time": "12:00",
-    "isTimeUncertain": true,
-    "location": "瓦肆VAS est"
-  },
-  {
-    "name": "王允宸心想事宸Live",
-    "type": "LIVE",
-    "date": "2026-06-27",
-    "time": "12:00",
-    "isTimeUncertain": true,
-    "location": "瓦肆VAS est"
-  },
-  {
-    "name": "王允宸心想事宸签售会",
-    "type": "FAN_MEETING",
-    "date": "2026-06-28",
-    "time": "12:00",
-    "isTimeUncertain": true,
-    "location": "待定"
-  },
-   {
-    "name": "佛山综艺录制",
-    "type": "OTHER",
-    "date": "2026-06-20",
+    "date": "2026-07-10",
     "time": "12:00",
     "isTimeUncertain": true,
     "location": ""
+  },
+  {
+    "name": "综艺录制暨开放Live",
+    "type": "PERFORMANCE",
+    "date": "2026-07-11",
+    "time": "21:00",
+    "isTimeUncertain": false,
+    "location": "普宁国际商品城"
   }
 ]
 
