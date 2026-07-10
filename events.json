@@ -17,14 +17,6 @@
     "location": ""
   },
   {
-    "name": "返回上海",
-    "type": "OTHER",
-    "date": "2026-07-13",
-    "time": "12:00",
-    "isTimeUncertain": true,
-    "location": ""
-  },
-  {
     "name": "音乐剧定妆照",
     "type": "OTHER",
     "date": "2026-07-06",
@@ -47,22 +39,6 @@
     "time": "12:00",
     "isTimeUncertain": true,
     "location": ""
-  },
-  {
-    "name": "物料拍摄",
-    "type": "OTHER",
-    "date": "2026-07-12",
-    "time": "12:00",
-    "isTimeUncertain": true,
-    "location": ""
-  },
-  {
-    "name": "综艺录制暨开放Live",
-    "type": "PERFORMANCE",
-    "date": "2026-07-11",
-    "time": "21:00",
-    "isTimeUncertain": false,
-    "location": "普宁国际商品城"
   }
 ]
 
