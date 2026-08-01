@@ -48,6 +48,14 @@
     "location": "音乐唐人馆"
   },
   {
+    "name": "北京助演",
+    "type": "PERFORMANCE",
+    "date": "2026-08-30",
+    "time": "12:00",
+    "isTimeUncertain": true,
+    "location": ""
+  },
+  {
     "name": "广州见面会",
     "type": "FAN_MEETING",
     "date": "2026-08-16",
