@@ -18,6 +18,14 @@
   {
     "name": "音乐剧四大美女",
     "type": "MUSICAL",
+    "date": "2026-10-03",
+    "time": "19:30",
+    "isTimeUncertain": false,
+    "location": "上海黄浦剧场・中剧场"
+  },
+  {
+    "name": "音乐剧四大美女",
+    "type": "MUSICAL",
     "date": "2026-10-04",
     "time": "19:30",
     "isTimeUncertain": false,
