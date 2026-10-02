@@ -1,19 +1,19 @@
 [ 
   {
-    "name": "一日店长・成都",
+    "name": "逛展・寻Me艺术展",
     "type": "BUIS",
-    "date": "2026-09-19",
-    "time": "12:00",
-    "isTimeUncertain": true,
-    "location": ""
+    "date": "2026-10-07",
+    "time": "11:00",
+    "isTimeUncertain": false,
+    "location": "太古里SPECTRUM堂砾"
   },
   {
-    "name": "音乐剧四大美女",
-    "type": "MUSICAL",
-    "date": "2026-09-26",
-    "time": "14:30",
+    "name": "Let's Go国庆见面会",
+    "type": "FAN_MEETING",
+    "date": "2026-10-05",
+    "time": "14:00",
     "isTimeUncertain": false,
-    "location": "上海黄浦剧场・中剧场"
+    "location": "美兰西湖蜂巢艺术中心"
   },
   {
     "name": "音乐剧四大美女",
@@ -32,12 +32,12 @@
     "location": "上海黄浦剧场・中剧场"
   },
   {
-    "name": "流行金曲排行榜",
-    "type": "PERFORMANCE",
-    "date": "2026-09-27",
+    "name": "镜像双魂万圣夜Live",
+    "type": "LIVE",
+    "date": "2026-10-31",
     "time": "12:00",
     "isTimeUncertain": true,
-    "location": "宣化天籁谷生态旅游区"
+    "location": "上海瓦肆ear"
   }
 ]
 
