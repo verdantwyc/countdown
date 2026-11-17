@@ -1,6 +1,6 @@
 [ 
   {
-    "name": "逛展・寻Me艺术展",
+    "name": "搜狐关注流舞蹈盛典",
     "type": "BUIS",
     "date": "2026-10-07",
     "time": "11:00",
@@ -17,43 +17,35 @@
   },
   {
     "name": "上海时装周・LetoiiAtelier",
-    "type": "BUIS",
-    "date": "2026-10-14",
-    "time": "20:00",
-    "isTimeUncertain": false,
-    "location": "上海前滩31"
-  },
-  {
-    "name": "Let's Go国庆见面会",
-    "type": "FAN_MEETING",
-    "date": "2026-10-05",
-    "time": "14:00",
-    "isTimeUncertain": false,
-    "location": "美兰西湖蜂巢艺术中心"
-  },
-  {
-    "name": "音乐剧四大美女",
-    "type": "MUSICAL",
-    "date": "2026-10-03",
-    "time": "19:30",
-    "isTimeUncertain": false,
-    "location": "上海黄浦剧场・中剧场"
-  },
-  {
-    "name": "音乐剧四大美女",
-    "type": "MUSICAL",
-    "date": "2026-10-04",
-    "time": "19:30",
-    "isTimeUncertain": false,
-    "location": "上海黄浦剧场・中剧场"
-  },
-  {
-    "name": "镜像双魂万圣夜Live",
-    "type": "LIVE",
-    "date": "2026-10-31",
-    "time": "12:00",
+    "type": "PERFORMANCE",
+    "date": "2026-11-28",
+    "time": "",
     "isTimeUncertain": true,
-    "location": "上海瓦肆ear"
+    "location": "北京"
+  },
+  {
+    "name": "音乐剧四大美女・南京场",
+    "type": "MUSICAL",
+    "date": "2026-12-05",
+    "time": "19:30",
+    "isTimeUncertain": false,
+    "location": "江苏大剧院·戏剧厅"
+  },
+  {
+    "name": "音乐剧四大美女・苏州场",
+    "type": "MUSICAL",
+    "date": "2026-12-26",
+    "time": "19:30",
+    "isTimeUncertain": false,
+    "location": "苏州湾大剧院・歌剧厅"
+  },
+  {
+    "name": "南京见面会",
+    "type": "FAN_MEETING",
+    "date": "2026-12-06",
+    "time": "",
+    "isTimeUncertain": true,
+    "location": "待确认"
   }
 ]
 
