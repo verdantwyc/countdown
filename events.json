@@ -1,22 +1,6 @@
 [ 
   {
     "name": "搜狐关注流舞蹈盛典",
-    "type": "BUIS",
-    "date": "2026-10-07",
-    "time": "11:00",
-    "isTimeUncertain": false,
-    "location": "太古里SPECTRUM堂砾"
-  },
-  {
-    "name": "上海时装周・Lacerta",
-    "type": "BUIS",
-    "date": "2026-10-10",
-    "time": "16:30",
-    "isTimeUncertain": false,
-    "location": "上海新天地太平湖公园"
-  },
-  {
-    "name": "上海时装周・LetoiiAtelier",
     "type": "PERFORMANCE",
     "date": "2026-11-28",
     "time": "",
